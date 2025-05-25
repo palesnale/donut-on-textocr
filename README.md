@@ -18,5 +18,6 @@ The Donut Results directory contains the results of each experiment:
  - results_diversityjson - The CER and model output/ground truth pairs for the diversity core-set experiment
  - results_hard.json - The CER and model output/ground truth pairs for the hard example core-set experiment
  - results_dh.json - The CER and model output/ground truth pairs for the hybrid diversity and hard strategy
+ - results_optuna.json - The CER and model output/ground truth pairs for the Optuna optimizer experiment
 
 Finally, the coreset_info txt file contains a Drive link to where the core-sets are hosted.
